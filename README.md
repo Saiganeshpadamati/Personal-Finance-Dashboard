@@ -1,7 +1,7 @@
 
-# FinFlow – Personal Finance Dashboard
+# Personal Finance Dashboard
 
-FinFlow is a modern and responsive personal finance dashboard built using React and TypeScript. It helps users manage transactions, track budgets, monitor expenses, and visualize their financial activities.
+Personal Finance Dashboard is a modern and responsive personal finance dashboard built using React and TypeScript. It helps users manage transactions, track budgets, monitor expenses, and visualize their financial activities.
 
 ## Features
 - Financial overview dashboard
@@ -34,4 +34,4 @@ Built as a frontend development portfolio project to demonstrate React, TypeScri
 
 ## Developer
 Sai Ganesh Yadav
-Give star, if you find useful.
+if you find it useful, consider giving it a star
